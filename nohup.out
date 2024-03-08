@@ -1,0 +1,61 @@
+INFO    | Android emulator version 32.1.15.0 (build_id 10696886) (CL:N/A)
+INFO    | Found systemPath /Users/pedrocapriles/Library/Android/sdk/system-images/android-32/google_apis/arm64-v8a/
+WARNING | Please update the emulator to one that supports the feature(s): Vulkan
+WARNING | cannot add library /Users/pedrocapriles/Library/Android/sdk/emulator/qemu/darwin-aarch64/lib64/vulkan/libvulkan.dylib: failed
+INFO    | Storing crashdata in: /tmp/android-pedrocapriles/emu-crash.db, detection is enabled
+INFO    | Duplicate loglines will be removed, if you wish to see each indiviudal line launch with the -log-nofilter flag.
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_new_posture_requested(int) ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_dismiss_posture_selection_dialog() ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_new_resizable_requested(PresetEmulatorSizeType) ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_dismiss_resizable_dialog() ((null):0, (null))
+INFO    | added library /Users/pedrocapriles/Library/Android/sdk/emulator/lib64/vulkan/libvulkan.dylib
+INFO    | Sending adb public key [QAAAAIGsIQR/bAVgrOj37tCqIQC8hPhK65XmdaDlskZWjoqvwEKfAt3c1is0zQ4CtuK7Qbuwn9AW1rFkMAloHZFmZZnN40VTNpfTSLhSzSrK+4lrmfLycmKSLULP1f+hjmCXRs/IEq1cJVVA0k6COOpb3siM6dJXtN6X0H7OqU8PIz3Edlk04ShL7FqTli9Awe7fYrRcJR82AnEtFdFVxPjjpx/p3evhla3wpuP10fVMhcuo8XGzHGodEAG2MIpZkoDYMZRo90MjFj9gVy7ENG66HDhoVtXP8zCqUvYMSbMWiLB+O7WpBuUVi3CHiYzQcrTZWx3iQIdqO7fSDU2Iz3pul8SEVVHTfk3KoktHs3e9Etx81NNL7ddzjZqzOgpb8huAXhFkrzgJE4rk3tIpzsaQGVtp5ysETQCfYNaOU/mp3NEDxRnfyrwjpgAIrhiHksePuXXoN7Oooh8VWOsvsnwgAT7DJevekul5DoDYDCrsnlt/MlsrtFXEzRYr82Y3W5XsCoUqJQp20EHcZ0jpiFfpoFKv+WiAsWuf7ADKYNUkDlLUOf1umgEggg93Tf+hVFEd97m+DJsQasK56VQnLw92xA1mZThQsLLKVgMa/kcWhuJIA95bc1edzlI1QUftPagCRmbvqSbWP4iTOGgveBRrWe5EoWFgCpwo7DPheVS0bi05qIN2uwEAAQA= pedrocapriles@unknown]
+WARNING | *** No gRPC protection active, consider launching with the -grpc-use-jwt flag.***
+INFO    | Started GRPC server at 127.0.0.1:8554, security: Local, auth: none
+INFO    | Advertising in: /Users/pedrocapriles/Library/Caches/TemporaryItems/avd/running/pid_37700.ini
+INFO    | Setting display: 0 configuration to: 1080x2160, dpi: 480x480 
+ERROR   | Unable to connect to adb daemon on port: 5037
+INFO    | Your emulator is out of date, please update by launching Android Studio:
+ - Start Android Studio
+ - Select menu "Tools > Android > SDK Manager"
+ - Click "SDK Tools" tab
+ - Check "Android Emulator" checkbox
+ - Click "OK"
+INFO    | Warning: Back buffer dpr of 1 doesn't match <NSViewBackingLayer: 0x13e044780> contents scale of 2 - updating layer to match. ((null):0, (null))
+INFO    | Warning: Back buffer dpr of 1 doesn't match <NSViewBackingLayer: 0x13e044780> contents scale of 2 - updating layer to match. ((null):0, (null))
+ (2x)
+INFO    | Warning: Back buffer dpr of 2 doesn't match <NSViewBackingLayer: 0x13e044780> contents scale of 1 - updating layer to match. ((null):0, (null))
+INFO    | Warning: Back buffer dpr of 2 doesn't match <NSViewBackingLayer: 0x13e044780> contents scale of 1 - updating layer to match. ((null):0, (null))
+ (3x)
+INFO    | Warning: Back buffer dpr of 1 doesn't match <NSViewBackingLayer: 0x13e044780> contents scale of 2 - updating layer to match. ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_rgbcSensorValueWidget_valueChanged() ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_posture_valueChanged(int) ((null):0, (null))
+INFO    | Wait for emulator (pid 37700) 20 seconds to shutdown gracefully before kill;you can set environment variable ANDROID_EMULATOR_WAIT_TIME_BEFORE_KILL(in seconds) to change the default value (20 seconds)
+INFO    | Info: 
+
+GLImplementation: 
+Surface Type: OpenGL
+Surface Profile: CoreProfile
+Surface Version: 4.1
+Using Default SG Backend: no
+Using Software Dynamic GL: no
+Using Angle: no
+
+Init Parameters:
+  *  application-name Emulator 
+  *  browser-subprocess-path /Users/pedrocapriles/Library/Android/sdk/emulator/lib64/qt/libexec/QtWebEngineProcess 
+  *  disable-features DnsOverHttpsUpgrade,ConsolidatedMovementXY,InstalledApp,BackgroundFetch,WebOTP,WebPayments,WebUSB,PictureInPicture 
+  *  disable-gpu  
+  *  disable-speech-api  
+  *  enable-features TracingServiceInProcess 
+  *  enable-threaded-compositing  
+ ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+ (2x)
+INFO    | Warning: No TLS backend is available ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+ (3x)
+INFO    | Warning: No TLS backend is available ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
